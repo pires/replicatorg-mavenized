@@ -64,6 +64,11 @@
       <version>2.0.10</version>
     </dependency>
     <dependency>
+      <groupId>mrj</groupId>
+      <artifactId>MRJToolkitStubs</artifactId>
+      <version>1.0</version>
+    </dependency>
+    <dependency>
       <groupId>quaqua</groupId>
       <artifactId>quaqua</artifactId>
       <version>20130618</version>
